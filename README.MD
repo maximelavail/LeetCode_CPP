@@ -26,7 +26,7 @@ Each problem is listed below with a direct link to its solution:
 - [13. Roman to Integer](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00013.%20Roman%20to%20Integer)  
 - [14. Longest Common Prefix](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00014.%20Longest%20Common%20Prefix)  
 - [15. 3Sum](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00015.%203Sum)  
-- [16. 3Sum Closest](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00016.%20Three%20Sum%20Closest)  
+- [16. 3Sum Closest](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00016.%203Sum%20Closest)  
 - [20. Valid Parentheses](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00020.%20Valid%20Parentheses)  
 - [22. Generate Parentheses](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00022.%20Generate%20Parentheses)  
 - [26. Remove Duplicates from Sorted Array](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00026.%20Remove%20Duplicates%20from%20Sorted%20Array)  
