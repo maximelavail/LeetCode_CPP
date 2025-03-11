@@ -34,6 +34,7 @@ Each problem is listed below with a direct link to its solution:
 - [29. Divide Two Integers](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00029.%20Divide%20Two%20Integers)  
 - [35. Search Insert Position](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00035.%20Search%20Insert%20Position)  
 - [58. Length of Last Word](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00058.%20Length%20of%20Last%20Word)  
+- [66. Plus One](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00066.%20Plus%20One)  
 - [80. Remove Duplicates from Sorted Array II](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00080.%20Remove%20Duplicates%20from%20Sorted%20Array%20II)  
 - [81. Search in Rotated Sorted Array II](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00081.%20Search%20in%20Rotated%20Sorted%20Array%20II)  
 - [88. Merge Sorted Array](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00088.%20Merge%20Sorted%20Array)  
