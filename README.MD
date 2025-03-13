@@ -39,6 +39,7 @@ Each problem is listed below with a direct link to its solution:
 - [81. Search in Rotated Sorted Array II](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00081.%20Search%20in%20Rotated%20Sorted%20Array%20II)  
 - [88. Merge Sorted Array](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00088.%20Merge%20Sorted%20Array)  
 - [121. Best Time to Buy and Sell Stock](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)  
+- [136. Single Number](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00136.%20Single%20Number)  
 - [151. Reverse Words in a String](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00151.%20Reverse%20Words%20in%20a%20String)  
 - [169. Majority Element](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00169.%20Majority%20Element)  
 - [171. Excel Sheet Column Number](https://github.com/maximelavail/LeetCode_CPP/tree/main/problems/00171.%20Excel%20Sheet%20Column%20Number)  
